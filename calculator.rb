@@ -1,4 +1,4 @@
-first_number = 0
+first_number = x
 second_number = 1
 sum = first_number + second_number
 difference = first_number - second_number
